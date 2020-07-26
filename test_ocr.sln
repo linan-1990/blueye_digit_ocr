@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ocr_dll", "ocr_dll\ocr_dll.vcxproj", "{A914ECA9-053E-4E55-AA60-DBA8E5C3B20D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_ocr", "test_ocr\test_ocr.vcxproj", "{94E936B0-67DC-4A2F-8089-74D2160653A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A914ECA9-053E-4E55-AA60-DBA8E5C3B20D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A914ECA9-053E-4E55-AA60-DBA8E5C3B20D}.Debug|Win32.Build.0 = Debug|Win32
+		{A914ECA9-053E-4E55-AA60-DBA8E5C3B20D}.Release|Win32.ActiveCfg = Release|Win32
+		{A914ECA9-053E-4E55-AA60-DBA8E5C3B20D}.Release|Win32.Build.0 = Release|Win32
+		{94E936B0-67DC-4A2F-8089-74D2160653A2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{94E936B0-67DC-4A2F-8089-74D2160653A2}.Debug|Win32.Build.0 = Debug|Win32
+		{94E936B0-67DC-4A2F-8089-74D2160653A2}.Release|Win32.ActiveCfg = Release|Win32
+		{94E936B0-67DC-4A2F-8089-74D2160653A2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

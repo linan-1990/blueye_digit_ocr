@@ -1,0 +1,7 @@
+; ocr_dll.def :
+
+LIBRARY
+
+EXPORTS
+    ;
+

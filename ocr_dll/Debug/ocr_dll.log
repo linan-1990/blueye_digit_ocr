@@ -1,0 +1,3 @@
+﻿     Creating library C:\Users\linan\Desktop\blueye\test_ocr\Debug\ocr_dll.lib and object C:\Users\linan\Desktop\blueye\test_ocr\Debug\ocr_dll.exp
+LINK : warning LNK4217: symbol '_start_cognize' defined in 'digitOCR.obj' is imported by 'CatchScreenDlg.obj' in function '"public: struct HBITMAP__ * __thiscall CCatchScreenDlg::CopyScreenToBitmap(struct tagRECT *,int)" (?CopyScreenToBitmap@CCatchScreenDlg@@QAEPAUHBITMAP__@@PAUtagRECT@@H@Z)'
+  ocr_dll.vcxproj -> C:\Users\linan\Desktop\blueye\test_ocr\Debug\ocr_dll.dll
